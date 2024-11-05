@@ -4,14 +4,14 @@
 
 ## Branches
 
-### Categories
+## Categories
 
-#### Sub categories
+## Sub categories
 
-##### Products(Foods)
+## Products(Foods)
 
-###### Payment Gateway(Stripe)
+## Payment Gateway(Stripe)
 
-####### Cart
+## Cart
 
-######## Dashboard For Admin, accept or refuse order
+## Dashboard For Admin, accept or refuse order
